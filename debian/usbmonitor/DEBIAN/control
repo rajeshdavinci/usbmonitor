@@ -1,0 +1,13 @@
+Package: usbmonitor
+Version: 1.0
+Architecture: all
+Maintainer: rajeshdavinci, <rajeshdavinci@gmail.com>
+Installed-Size: 33
+Depends: python-appindicator
+Section: python
+Priority: optional
+Description: simple usbmonitor
+ usbmonitor monitor for usbdevices.
+ It detects usb devices using udev and
+ notifies whenever new device is added and
+ removed.

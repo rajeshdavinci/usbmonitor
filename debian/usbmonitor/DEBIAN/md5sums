@@ -1,0 +1,9 @@
+d41d8cd98f00b204e9800998ecf8427e  opt/usbmonitor/__init__.py
+8b6d5ccba39506d5c7cc873284053685  opt/usbmonitor/command_line.py
+9d89a3cd363fe8bf0edd913acb83614e  opt/usbmonitor/notification.png
+0ae47f056cd8505e0a12a47a67014818  opt/usbmonitor/setup.py
+917be508298713bde80a3239fc746ec4  opt/usbmonitor/usbmonitor.py
+a553bdb6206ab067857836dfd8f10114  opt/usbmonitor/usbmonitor.service
+be5bc956fe191b352ee7f87c572ed4d5  opt/usbmonitor/usbmonitor.sh
+72d6f0abf9b2cc849dcf9a2042b09796  usr/share/doc/usbmonitor/changelog.gz
+d41d8cd98f00b204e9800998ecf8427e  usr/share/doc/usbmonitor/copyright

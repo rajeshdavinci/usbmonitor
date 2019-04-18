@@ -1,0 +1,17 @@
+[Unit]
+Description=USB Monitor Service
+After=graphical.target
+
+[Service]
+Type=simple
+WorkingDirectory=/opt/usb-notifier
+Environment=DISPLAY=:0 
+Environment=XAUTHORITY=/home/rajeshgs/.Xauthority
+ExecStart=/usr/bin/python /opt/usb-notifier/usbmonitor.py
+StandardOutput=syslog
+StandardError=syslog
+
+[Install]
+WantedBy=graphical.target
+
+
